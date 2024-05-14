@@ -19,6 +19,7 @@ TikTok has become a popular platform for sharing short videos on various topics.
 
 ## Dataset
 
+Dataset link: https://www.kaggle.com/code/amirmotefaker/sentiment-analysis-on-tiktok/notebook
 The dataset used in this project includes TikTok video data with columns for `score` and `sentiment`. The `score` represents a numerical value assigned to the video, and `sentiment` indicates the emotional tone (e.g., positive, negative, neutral).
 
 ## Installation
